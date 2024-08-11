@@ -38,10 +38,10 @@ d. Memberikan wawasan yang dapat diandalkan kepada tim manajemen untuk membuat k
 Analisis regresi akan digunakan untuk memprediksi nilai seumur hidup pelanggan PT. Long Life Insurance Indonesia. Tujuannya adalah untuk mengidentifikasi faktor-faktor yang paling berpengaruh terhadap nilai pelanggan sehingga perusahaan dapat menyusun strategi pemasaran yang lebih efektif. Dengan memahami faktor-faktor ini, perusahaan dapat mengalokasikan sumber daya secara optimal, memberikan penawaran yang lebih personal, serta meningkatkan retensi pelanggan, yang pada akhirnya akan berdampak positif pada profitabilitas perusahaan.
 
 ## **Metric Evaluation**
-a. MAE
-b. MedAE
-c. MAPE
-d. R-squared
+a. MAE<br>
+b. MedAE<br>
+c. MAPE<br>
+d. R-squared<br>
 
 ## **Best Model**
 Random Forest setelah proses tuning
